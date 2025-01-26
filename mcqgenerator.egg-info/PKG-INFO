@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: mcqgenerator
+Version: 0.0.1
+Author: Kushagra Singh
+Author-email: kushagra@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
