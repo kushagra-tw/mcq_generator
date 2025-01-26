@@ -10,6 +10,7 @@ streamlit = "*"
 python-dotenv = "*"
 pypdf2 = "*"
 mcqgenerator = {file = ".", editable = true}
+langchain-community = "*"
 
 [dev-packages]
 
